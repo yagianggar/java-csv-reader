@@ -1,0 +1,8 @@
+target
+.classpath
+.project
+.settings
+test-output
+*.png
+*.iml
+.idea
